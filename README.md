@@ -7,7 +7,7 @@ Passionate about building scalable solutions, exploring cloud architecture, and 
 ## 🧠 What I Do
 
 - **💻 Full-Stack Development:** From RESTful APIs to responsive UIs  
-- **☁️ Cloud Engineering:** AWS, Azure, and DevOps pipelines  
+- **☁️ Cloud Engineering:** AWS  
 - **📊 Data & Reporting:** JasperReports, dashboards, and data visualization  
 - **🧩 Design Patterns:** Applying proven architectural strategies to real-world problems  
 
