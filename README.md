@@ -19,7 +19,7 @@ Passionate about building scalable solutions, exploring cloud architecture, and 
 Languages: Java | Python | Javascript | HTML/CSS  
 Frameworks: Vertx | Spring Boot | AngularJS | React | Node.js  
 Cloud: AWS | Docker | Kubernetes
-Big Data: Snowflake 
+Big Data: AWS EMR | Snowflake 
 Tools: Git | Jenkins | Postman | VS Code
 
 ```
