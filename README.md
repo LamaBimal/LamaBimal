@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bimaltamang1234@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/LamaBimal?logo=github&style=for-the-badge)](https://github.com/LamaBimal)
 
-**Solution Architect | Full-Stack Engineer | Data Engineer**  
+**Senior Solution Architect | Full-Stack Engineer | Data Engineer**  
 *10+ years of experience building scalable, cloud-native solutions*
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm a **Solution Architect and Software Engineer** with a passion for designing and building scalable, maintainable systems. My expertise spans:
+I'm a **Senior Solution Architect and Software Engineer** with a passion for designing and building scalable, maintainable systems. My expertise spans:
 
 - **Backend Engineering:** Building robust APIs and microservices with Spring Boot, Vertx, and Node.js
 - **Data Engineering:** ETL pipelines, data warehousing with Snowflake, and big data processing
