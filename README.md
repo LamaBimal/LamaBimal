@@ -78,13 +78,6 @@ I believe in writing **clean code**, following **SOLID principles**, and creatin
 | **[Java Design Patterns](https://github.com/LamaBimal/java_design_pattern)** | Comprehensive collection of design patterns | Java, Design Patterns |
 | **[Java DSA](https://github.com/LamaBimal/java_dsa)** | Data Structures and Algorithms implementations | Java |
 | **[Core Spring with Maven](https://github.com/LamaBimal/core-Spring-with-Maven)** | Spring framework fundamentals | Spring, Maven |
-| **[Online Ordering System](https://github.com/LamaBimal/Online-ordering-System)** | Full-featured ordering application | Java, Database Design |
-
-### 🎨 Frontend & UI
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Angular2 Basics](https://github.com/LamaBimal/Angular2Basics)** | Angular fundamentals and best practices | Angular 2, TypeScript |
-| **[CKEditor with AngularJS](https://github.com/LamaBimal/ckeditor-with-AngularJs)** | Rich text editor integration | AngularJS, CKEditor |
 
 ### 📊 Big Data & Analytics
 | Project | Description | Tech Stack |
